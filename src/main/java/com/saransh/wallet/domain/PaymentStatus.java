@@ -1,0 +1,8 @@
+package com.saransh.wallet.domain;
+
+public enum PaymentStatus {
+    PENDING,
+    PROCESSING,
+    COMPLETED,
+    FAILED
+}

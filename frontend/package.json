@@ -1,0 +1,21 @@
+{
+  "name": "saransh-wallet-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "High-performance real-time UI for Saransh Wallet & Distributed Payment Ledger",
+  "author": "Saransh Singh (Saransh2005)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.8"
+  }
+}
